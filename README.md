@@ -12,7 +12,7 @@ Este repositorio está dirigido a investigadores, médicos y profesionales inter
 
 Para acceder a todo el contenido de la guía, acceda a la sección **Wiki**.
 
-![image](https://github.com/user-attachments/assets/f2a6eca0-488b-41d1-ad84-45ed57612238)
+![image](https://github.com/user-attachments/assets/799a8ff5-dce9-4e1d-8a4c-603c490a7cc6)
 
 ---
 
@@ -30,4 +30,4 @@ This repository is aimed at researchers, clinicians, and professionals intereste
 
 To access all the content of the guide, go to the **Wiki** section.
 
-![image](https://github.com/user-attachments/assets/8ad91281-f869-49d7-b8ad-befda8f0c472)
+![image](https://github.com/user-attachments/assets/28981a70-ea3e-419c-9412-b703a2445667)
