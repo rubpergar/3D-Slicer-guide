@@ -4,6 +4,7 @@
 Este repositorio ofrece una guía práctica para obtener características radiómicas a partir de imágenes de TAC utilizando el software **3D Slicer** y la extensión **PyRadiomics**. La guía está diseñada para trabajar con conjuntos de datos DICOM que incluyen imágenes de TAC, archivos RSTRUCT y/o segmentaciones en formato SEG.  
 
 Se cubren los siguientes pasos:  
+- Preparación del entorno.
 - Importación de imágenes DICOM en 3D Slicer.  
 - Visualización y manipulación de las imágenes y las estructuras segmentadas.  
 - Extracción de características radiómicas con PyRadiomics.  
@@ -22,6 +23,7 @@ Para acceder a todo el contenido de la guía, acceda a la sección [**Wiki**](ht
 This repository provides a practical guide to obtaining radiomic features from CT images using **3D Slicer** and the **PyRadiomics** extension. The guide is designed to work with DICOM datasets, including CT images, RSTRUCT files, and/or SEG segmentations.  
 
 The following steps are covered:  
+- Environment setup.
 - Importing DICOM images into 3D Slicer.  
 - Visualizing and manipulating images and segmented structures.  
 - Extracting radiomic features using PyRadiomics.  
